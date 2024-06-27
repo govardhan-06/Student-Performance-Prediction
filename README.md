@@ -12,7 +12,7 @@ The Student Performance Prediction project is a web application that predicts th
 
 ## Tech Stack
 
-- **Front End:** HTML, CSS
+- **Front End:** HTML
 - **Back End:** Flask
 - **Machine Learning:** Scikit-learn (or any other library you used)
 
